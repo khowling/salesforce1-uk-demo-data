@@ -53,7 +53,7 @@ salesforce1-uk-demo-data
         m.add(new Merchandise__c(Name='iPhone 5C Green',Price__c=600.00,Quantity__c=1200, Warehouse__c=warehouses[9].Id));
         m.add(new Merchandise__c(Name='iPhone 5S Gold',Price__c=600.00,Quantity__c=550, Warehouse__c=warehouses[10].Id));
         m.add(new Merchandise__c(Name='iPhone 5C Red',Price__c=600.00,Quantity__c=1850, Warehouse__c=warehouses[11].Id));  
-        m.add(new Merchandise__c(Name='iPhone 5C Blue',Price__c=600.00,Quantity__c=2050, Warehouse__c=warehouses[12].Id));
+        m.add(new Merchandise__c(Name='iPhone 5C Blue',Price__c=600.00,Quantity__c=2050, Warehouse__c=warehouses[11].Id));
         
         m.add(new Merchandise__c(Name='iPhone 5S Gold',Price__c=600.00,Quantity__c=750, Warehouse__c=warehouses[2].Id));
         m.add(new Merchandise__c(Name='iPhone 5C Green',Price__c=600.00,Quantity__c=1200, Warehouse__c=warehouses[5].Id));
